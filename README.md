@@ -8,7 +8,7 @@
     </div>
     <br>    
     <div align="left">
-      <h3>Languages and Tools:</h3>
+      <h3>Tech Stack:</h3>
  <hr style="height:1px;border:none;color:#333;background-color:#333;" />
       <div>
        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40" />&nbsp;
@@ -26,8 +26,9 @@
  <div id="header" align="left">
       <h3>About me:</h3> 
  <hr style="border-bottom: 0px" />
-     - 💬 Cursando 8vo. Semeestre de la Carrera: Ingenieria en Desarrollo de Software <br>
-    - 💬 Apasionado por el Desarrollo Web 
+ - 💬 Cursando 8vo. Semestre de la Carrera: Ingenieria en Desarrollo de Software <br>
+ - 💬 Apasionado por el Desarrollo Web 
+ - 💬 Apasionado por el Desarrollo Web 
         </div>
 
 
