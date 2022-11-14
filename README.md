@@ -32,7 +32,7 @@
  <hr style="height:1px;border:none;color:#333;background-color:#333;" />
  - 📚 Cursando 8vo. Semestre de la Carrera: Ingenieria en Desarrollo de Software <br>
  - 💻 Apasionado por el Desarrollo Web <br>
- - 🎮 Motivado en el aprendizaje de C#
+ - 🎮 Motivado en la especialización del lenguaje C#
         </div>
         <br>
   <div align="center">
