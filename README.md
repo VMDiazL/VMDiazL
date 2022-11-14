@@ -6,6 +6,7 @@
     <div id="banner" align="left">
       <img src="https://i.postimg.cc/1thY9nzV/Mi-Presentacion-2021.png" width="800" />
     </div>
+    <br>
     <hr>
     <div align="left">
       <h3>Languages and Tools:</h3>
@@ -21,6 +22,7 @@
        <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="HTML5" alt="HTML" width="40" height="40" />&nbsp;       
       </div>
     </div>
+    <br>
     <hr>
  <div id="around" align="left">
       <h3>About me:</h3>
