@@ -20,6 +20,9 @@
        <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="HTML5" alt="HTML" width="40" height="40" />&nbsp;       
       </div>
     </div>
+    <div id="around" align="left">
+      <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611594cf54d9cdc20b4f9e02b040f967ae11e151274&rid=giphy.gif&ct=g" width="200" />
+    </div>
 
 
 <!--
