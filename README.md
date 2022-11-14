@@ -23,6 +23,8 @@
     <div id="around" align="left">
   <h3>About me:</h3>
       <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611594cf54d9cdc20b4f9e02b040f967ae11e151274&rid=giphy.gif&ct=g" width="200" />
+ - Cursando 8vo. Semeestre de la Carrera: Ingenieria en Desarrollo de Software
+ - Apasionado por el Desarrollo Web
     </div>
 
 
