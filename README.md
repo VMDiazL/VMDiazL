@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I'm Victor Diaz 👋🏾
+
+<div id="header" align="center">
+        <img src="https://drive.google.com/file/d/1w2rC6tv0ALGiyT_nSww7dMlhVQy7luIs/view?usp=share_link" width="200" alt="presentation">
+    </div>
+
+
 
 <!--
 **VMDiazL/VMDiazL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
