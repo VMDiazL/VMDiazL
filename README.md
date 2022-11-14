@@ -25,7 +25,7 @@
     <br>    
  <div id="around" align="left">
       <h3>About me:</h3>
- <hr style="height:1px;border:none;color:#333;background-color:#333;" />
+ <hr style="height:0px;border:none;color:#333;background-color:#333;" />
      - 💬 Cursando 8vo. Semeestre de la Carrera: Ingenieria en Desarrollo de Software <br>
     - 💬 Apasionado por el Desarrollo Web 
         </div>
