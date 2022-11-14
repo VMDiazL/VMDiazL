@@ -27,7 +27,7 @@
       </div>
     </div>
     <br>    
- <div id="header" align="left">
+ <div id="about" align="left">
       <h3>About me 💬</h3> 
  <hr style="height:1px;border:none;color:#333;background-color:#333;" />
  - 📚 Cursando 8vo. Semestre de la Carrera: Ingenieria en Desarrollo de Software <br>
@@ -35,6 +35,14 @@
  - 🎮 Motivado en la especialización del lenguaje C#
         </div>
         <br>
+ <div id="github" align="left">
+      <h3>GitHub</h3> 
+ <hr style="height:1px;border:none;color:#333;background-color:#333;" />
+ <p align="center">
+<a href="#user-30538313-pinned-items-reorder-form">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=VMDiazL&theme=dark&show_icons=true" alt="VictorDiaz Github Stats"/> 
+</a>
+</p>
   <div align="center">
 <h3 align="left">Let's connect ✨</h3>
  <hr style="height:1px;border:none;color:#333;background-color:#333;" />
