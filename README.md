@@ -34,15 +34,7 @@
  - 💻 Apasionado por el Desarrollo Web <br>
  - 🎮 Motivado en la especialización del lenguaje C#
         </div>
-        <br>
- <div id="github" align="left">
-      <h3>GitHub</h3> 
- <hr style="height:1px;border:none;color:#333;background-color:#333;" />
- <p align="center">
-<a href="#user-30538313-pinned-items-reorder-form">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=VMDiazL&theme=dark&show_icons=true" alt="VictorDiaz Github Stats"/> 
-</a>
-</p>
+        <br>  
   <div align="center">
 <h3 align="left">Let's connect ✨</h3>
  <hr style="height:1px;border:none;color:#333;background-color:#333;" />
@@ -52,7 +44,12 @@
 <img align="center" width="30px" alt="VictorDiaz LinkedIn" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/></a> &nbsp; &nbsp;
 <a href="https://www.youtube.com/channel/UCOb5VdzdlgvPhDY7RTrN1nA" target="blank">
 <img align="center" width="30px" alt="CodiVoros" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg"/></a> &nbsp; &nbsp;
-
+ <br><br>
+ <p align="center">
+<a href="#user-30538313-pinned-items-reorder-form">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=VMDiazL&theme=dark&show_icons=true" alt="VictorDiaz Github Stats"/> 
+</a>
+</p>
 </p>
 
 
