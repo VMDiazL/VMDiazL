@@ -1,7 +1,7 @@
 ### Hi, I'm Victor Diaz 👋🏾
 
 <div id="header" align="center">
-        <img src="https://drive.google.com/file/d/1w2rC6tv0ALGiyT_nSww7dMlhVQy7luIs/view?usp=share_link" width="200" alt="presentation">
+      <img src="https://i.postimg.cc/1thY9nzV/Mi-Presentacion-2021.png" width="600" />
     </div>
 
 
