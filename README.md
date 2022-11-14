@@ -6,6 +6,7 @@
     <div id="banner" align="left">
       <img src="https://i.postimg.cc/1thY9nzV/Mi-Presentacion-2021.png" width="800" />
     </div>
+    <hr>
     <div align="left">
       <h3>Languages and Tools:</h3>
       <div>
@@ -20,11 +21,12 @@
        <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="HTML5" alt="HTML" width="40" height="40" />&nbsp;       
       </div>
     </div>
-    <div id="around" align="left">
-  <h3>About me:</h3>
- - 💬 Cursando 8vo. Semeestre de la Carrera: Ingenieria en Desarrollo de Software
- - 💬 Apasionado por el Desarrollo Web 
-    </div>
+    <hr>
+ <div id="around" align="left">
+      <h3>About me:</h3>
+     - 💬 Cursando 8vo. Semeestre de la Carrera: Ingenieria en Desarrollo de Software <br>
+    - 💬 Apasionado por el Desarrollo Web 
+        </div>
 
 
 <!--
