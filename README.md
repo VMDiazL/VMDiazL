@@ -4,7 +4,8 @@
       <h1 align="left">Hi, I'm Victor Diaz 👋🏾</h1> 
     </div>
     <div id="banner" align="center">
-      <img src="https://i.postimg.cc/1thY9nzV/Mi-Presentacion-2021.png" width="650" />
+      <img src="https://i.postimg.cc/1thY9nzV/Mi-Presentacion-2021.png" width="650" /> <br>
+ <em font-family="Consolas"> I'm a Software Development Engineering student at the Open and Distance University of Mexico (UnADM).</em> 
     </div>
     <br>    
     <div align="left">
@@ -28,7 +29,7 @@
  <hr style="height:1px;border:none;color:#333;background-color:#333;" />
  - 📚 Cursando 8vo. Semestre de la Carrera: Ingenieria en Desarrollo de Software <br>
  - 💻 Apasionado por el Desarrollo Web <br>
- - ⚡ Motivado en el aprendizaje de C#
+ - 🎮 Motivado en el aprendizaje de C#
         </div>
         <br>
   <div align="center">
