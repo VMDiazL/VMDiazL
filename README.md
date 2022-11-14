@@ -47,7 +47,7 @@
  <br><br>
  <p align="center">
 <a href="#user-30538313-pinned-items-reorder-form">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=VMDiazL&theme=dark&show_icons=true" alt="VictorDiaz Github Stats"/> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=VMDiazL&theme=ayu-mirage&show_icons=true" alt="VictorDiaz Github Stats"/> 
 </a>
 </p>
 </p>
