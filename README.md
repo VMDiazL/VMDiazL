@@ -11,9 +11,17 @@
     </div>
     <br>    
     <div align="left">
-      <h3>Tech Stack ⌨</h3>
- <hr style="height:1px;border:none;color:#333;background-color:#333;" />
-      <div align="center">
+ 
+ <div id="about" align="left">
+  <hr style="height:1px;border:none;color:#333;background-color:#333;" />
+      <h3>About me 💬</h3>  
+ - 📚 Cursando 8vo. Semestre de la Carrera: Ingenieria en Desarrollo de Software <br><br>
+ - 💻 Apasionado por el Desarrollo Web <br><br>
+ - 🎮 Motivado en la especialización del lenguaje C#
+        </div>
+ <br>
+      <h3>Tech Stack ⌨</h3> 
+      <div align="left">       
         <br>
        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML" width="30" height="30" />&nbsp;
        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS" alt="CSS" width="30" height="30" />&nbsp;
@@ -25,21 +33,13 @@
        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="30" height="30" />&nbsp;
        <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photshop" alt="Photshop" width="30" height="30" />&nbsp;<em>
       </div>
-    </div>
-    <br>    
- <div id="about" align="left">
-      <h3>About me 💬</h3> 
- <hr style="height:1px;border:none;color:#333;background-color:#333;" />
- - 📚 Cursando 8vo. Semestre de la Carrera: Ingenieria en Desarrollo de Software <br>
- - 💻 Apasionado por el Desarrollo Web <br>
- - 🎮 Motivado en la especialización del lenguaje C#
-        </div>
+    </div> 
         <br>  
   <div align="center">
-<h3 align="left">Let's connect ✨</h3>
- <hr style="height:1px;border:none;color:#333;background-color:#333;" />
+   <hr style="height:1px;border:none;color:#333;background-color:#333;" />
+<h3 align="left">Let's connect ✨</h3> 
 </div>
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/victormdiazl/" target="blank">
 <img align="center" width="30px" alt="VictorDiaz LinkedIn" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/></a> &nbsp; &nbsp;
 <a href="https://www.youtube.com/channel/UCOb5VdzdlgvPhDY7RTrN1nA" target="blank">
