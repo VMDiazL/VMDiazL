@@ -10,7 +10,7 @@
     <div align="left">
       <h3>Tech Stack ⌨</h3>
  <hr style="height:1px;border:none;color:#333;background-color:#333;" />
-      <div>
+      <div align="center">
        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40" />&nbsp;
        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS" alt="CSS" width="40" height="40" />&nbsp;
        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40" />&nbsp;
@@ -32,7 +32,7 @@
         </div>
         <br>
   <div align="center">
-<h3 align="center">Let's connect 😋</h3>
+<h3 align="center">✨ Let's connect ✨</h3>
  <hr style="height:1px;border:none;color:#333;background-color:#333;" />
 </div>
 <p align="center">
