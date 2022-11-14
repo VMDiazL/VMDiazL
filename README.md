@@ -30,8 +30,10 @@
  - 💻 Apasionado por el Desarrollo Web <br>
  - ⚡ Motivado en el aprendizaje de C#
         </div>
+        <br>
   <div align="center">
 <h3 align="center">Let's connect 😋</h3>
+ <hr style="height:1px;border:none;color:#333;background-color:#333;" />
 </div>
 <p align="center">
 <a href="https://www.linkedin.com/in/victormdiazl/" target="blank">
