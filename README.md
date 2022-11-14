@@ -9,7 +9,7 @@
     <br>    
     <div align="left">
       <h3>Languages and Tools:</h3>
- <hr>
+ <hr style="height:1px;border:none;color:#333;background-color:#333;" />
       <div>
        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40" />&nbsp;
        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS" alt="CSS" width="40" height="40" />&nbsp;
@@ -25,7 +25,7 @@
     <br>    
  <div id="around" align="left">
       <h3>About me:</h3>
- <hr>
+ <hr style="height:1px;border:none;color:#333;background-color:#333;" />
      - 💬 Cursando 8vo. Semeestre de la Carrera: Ingenieria en Desarrollo de Software <br>
     - 💬 Apasionado por el Desarrollo Web 
         </div>
