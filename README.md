@@ -13,16 +13,17 @@
     <div align="left">
       <h3>Tech Stack ⌨</h3>
  <hr style="height:1px;border:none;color:#333;background-color:#333;" />
-      <div align="left">
-       <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML" width="30" height="30" />&nbsp;<em> HTML5 </em> <br><br>
-       <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS" alt="CSS" width="30" height="30" />&nbsp;<em> CSS3 </em> <br>
-       <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="30" height="30" />&nbsp;<em> Javascript </em> <br>
-       <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql" width="30" height="30" />&nbsp;<em> MySQL </em> <br>
-       <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" alt="PHP" width="30" height="30" />&nbsp;<em> PHP </em> <br>
-       <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="mssql" alt="mssql" width="30" height="30"/>&nbsp;<em> MSSQL Server </em> <br>
-       <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" alt="C#" width="30" height="30" />&nbsp;<em> C# </em> <br>       
-       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="30" height="30" />&nbsp;<em> Git </em> <br>       
-       <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photshop" alt="Photshop" width="30" height="30" />&nbsp;<em> Photshop </em> <br>       
+      <div align="center">
+        <br>
+       <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML" width="30" height="30" />&nbsp;
+       <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS" alt="CSS" width="30" height="30" />&nbsp;
+       <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="30" height="30" />&nbsp;
+       <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql" width="30" height="30" />&nbsp;
+       <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" alt="PHP" width="30" height="30" />&nbsp;
+       <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="mssql" alt="mssql" width="30" height="30"/>&nbsp;
+       <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" alt="C#" width="30" height="30" />&nbsp;
+       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="30" height="30" />&nbsp;
+       <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photshop" alt="Photshop" width="30" height="30" />&nbsp;<em>
       </div>
     </div>
     <br>    
@@ -35,7 +36,7 @@
         </div>
         <br>
   <div align="center">
-<h3 align="center">✨ Let's connect ✨</h3>
+<h3 align="left">Let's connect ✨</h3>
  <hr style="height:1px;border:none;color:#333;background-color:#333;" />
 </div>
 <p align="center">
