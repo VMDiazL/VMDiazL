@@ -23,7 +23,7 @@
       </div>
     </div>
     <br>    
- <div id="around" align="left">
+ <div id="header" align="left">
       <h3>About me:</h3>
  <hr style="height:0px;border:none;color:#333;background-color:#333;" />
      - 💬 Cursando 8vo. Semeestre de la Carrera: Ingenieria en Desarrollo de Software <br>
