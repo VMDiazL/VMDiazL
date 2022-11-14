@@ -22,7 +22,8 @@
        <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="HTML5" alt="HTML" width="40" height="40" />&nbsp;       
       </div>
     </div>
-    <br>    
+    <br>
+    ###
  <div id="header" align="left">
       <h3>About me:</h3> 
      - 💬 Cursando 8vo. Semeestre de la Carrera: Ingenieria en Desarrollo de Software <br>
