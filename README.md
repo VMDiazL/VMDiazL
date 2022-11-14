@@ -4,7 +4,7 @@
       <h1 align="left">Hi, I'm Victor Diaz 👋🏾</h1> 
     </div>
     <div id="banner" align="center">
-      <img src="https://i.postimg.cc/1thY9nzV/Mi-Presentacion-2021.png" width="700" />
+      <img src="https://i.postimg.cc/1thY9nzV/Mi-Presentacion-2021.png" width="650" />
     </div>
     <br>    
     <div align="left">
