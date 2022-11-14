@@ -16,10 +16,8 @@
        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="HTML5" alt="HTML" width="40" height="40" />&nbsp;
        <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="HTML5" alt="HTML" width="40" height="40" />&nbsp;
        <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="HTML5" alt="HTML" width="40" height="40" />&nbsp;       
-       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40" />&nbsp;
-       
-       <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="HTML5" alt="HTML" width="40" height="40" />&nbsp;
-       <img src="" title="HTML5" alt="HTML" width="40" height="40" />&nbsp;
+       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40" />&nbsp;       
+       <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="HTML5" alt="HTML" width="40" height="40" />&nbsp;       
       </div>
     </div>
 
