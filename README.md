@@ -25,7 +25,7 @@
     <br>    
  <div id="header" align="left">
       <h3>About me:</h3> 
- <hr style="border-bottom: 0px" />
+ <hr style="height:1px;border:none;color:#333;background-color:#333;" />
  - 📚 Cursando 8vo. Semestre de la Carrera: Ingenieria en Desarrollo de Software <br>
  - 💻 Apasionado por el Desarrollo Web <br>
  - ⚡ Motivado en el aprendizaje de C#
