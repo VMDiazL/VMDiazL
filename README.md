@@ -1,11 +1,11 @@
 
 
  <div id="header" align="left">
-      <h1 align="left">👋🏾 Hi, I'm Victor Diaz</h1> 
+      <h1 align="left">👋🏾 Hola, yo soy Victor Diaz</h1> 
     </div>
     <div id="banner" align="center">
       <img src="https://i.postimg.cc/1thY9nzV/Mi-Presentacion-2021.png" width="650" /> <br>
- <em font-family="Consolas"> I'm a Software Development Engineering student at the Open and Distance University of Mexico (UnADM). <br>
+ <em font-family="Consolas"> Soy estudiante de la Ingenieria en Desarrollo de Software, de la Universidad Abierta y a Distancia de México (UnADM). <br>
   "Orgullo y Corazón UnADM"
  </em> 
     </div>
@@ -14,13 +14,13 @@
  
  <div id="about" align="left">
   <hr style="height:1px;border:none;color:#333;background-color:#333;" />
-      <h3>About me 💬</h3>  
+      <h3>Acerca de mi 💬</h3>  
  - 📚 Cursando 8vo. Semestre de la Carrera: Ingenieria en Desarrollo de Software <br><br>
  - 💻 Apasionado por el Desarrollo Web <br><br>
  - 🎮 Motivado en la especialización del lenguaje C#
         </div>
  <br>
-      <h3>Tech Stack ⌨</h3> 
+      <h3>Tecnologías ⌨</h3> 
       <div align="left">       
         <br>
        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML" width="30" height="30" />&nbsp;
