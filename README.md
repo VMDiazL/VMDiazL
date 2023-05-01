@@ -5,7 +5,7 @@
     </div>
     <div id="banner" align="center">
       <img src="https://i.postimg.cc/1thY9nzV/Mi-Presentacion-2021.png" width="650" /> <br>
- <em font-family="Consolas"> Soy estudiante de la Ingenieria en Desarrollo de Software, de la Universidad Abierta y a Distancia de México (UnADM). <br>
+ <em font-family="Consolas">Estudiante de la Ingenieria en Desarrollo de Software, de la Universidad Abierta y a Distancia de México (UnADM). <br>
   "Orgullo y Corazón UnADM"
  </em> 
     </div>
