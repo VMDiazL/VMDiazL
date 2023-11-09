@@ -5,7 +5,7 @@
     </div>
     <div id="banner" align="center">
       <img src="https://i.postimg.cc/1thY9nzV/Mi-Presentacion-2021.png" width="650" /> <br>
- <em font-family="Consolas">Estudiante de la Ingenieria en Desarrollo de Software, de la Universidad Abierta y a Distancia de México (UnADM). <br>
+ <em font-family="Consolas">Ingenieria en Desarrollo de Software, Universidad Abierta y a Distancia de México (UnADM). <br>
   "Orgullo y Corazón UnADM"
  </em> 
     </div>
@@ -15,7 +15,7 @@
  <div id="about" align="left">
   <hr style="height:1px;border:none;color:#333;background-color:#333;" />
       <h3>Acerca de mi 💬</h3>  
- - 📚 Cursando 8vo. Semestre de la Carrera: Ingenieria en Desarrollo de Software <br><br>
+ - 📚 Ingeniero en Desarrollo de Software <br><br>
  - 💻 Apasionado por el Desarrollo Web <br><br>
  - 🎮 Motivado en la especialización del lenguaje C#
         </div>
